@@ -29,7 +29,9 @@ route文件夹，你可以
 
 1. 前台展示 index.js 访问 /
 2. 后台管理 system.js 访问 /system/
+
 ###node_modules
+
     "async": "^2.1.4",
     "body-parser": "^1.15.2",
     "connect-flash": "^0.1.1",
